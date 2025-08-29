@@ -13,9 +13,7 @@
     <h1>Semantic HTML.</h1>
     <header>
         <nav>
-            <a href="/">Home</a>
-            <a href="/About">About</a>
-            <a href="/Contact">Contact</a>
+            
         </nav>
     </header>
     <main>
